@@ -26,7 +26,7 @@ MQTT Bağlantısı: Mesafe verileri, MQTT kullanılarak bulut sunucusuna aktarı
 Firebase Entegrasyonu: Veriler Firebase veritabanında saklanır.
 Mobil Uygulama ile Uyarı: Veriler belirli bir eşik değerin altına düştüğünde, mobil uygulamaya uyarı gönderilir.
 
-Kodlar:
+Kodlar --> 
 Bu proje iki ana kod dosyasından oluşur:
 
 mesafe_sensoru_firebase.ino: Bu kod, sensörden gelen mesafe verisini MQTT aracılığıyla alır ve Firebase veritabanına gönderir.
